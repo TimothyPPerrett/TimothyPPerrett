@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Tim. Current Curtin University electrical engineering and physics student, and general enthusiast for things that move fast and make loud noises.
+
 <!--
 **TimothyPPerrett/TimothyPPerrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
